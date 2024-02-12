@@ -85,7 +85,7 @@ function start() {
         sound.setVolume(0.5);
         sound.play();
     });
-    for (var i = 1079; i < 1110; i++)textureArray[i] = new THREE.TextureLoader().load("./Screenshot (" + i + ").png");
+    for (var i = 1079; i < 1112; i++)textureArray[i] = new THREE.TextureLoader().load("./Screenshot (" + i + ").png");
     update();
 }
 function update() {
