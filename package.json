@@ -1,0 +1,21 @@
+{
+  "name": "game-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel serve -p 5000",
+    "build": "parcel build src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "@dimforge/rapier3d-compat": "^0.11.2",
+    "parcel-reporter-static-files-copy": "^1.5.0",
+    "three": "^0.156.1",
+    "three-mesh-ui": "^6.5.4"
+  }
+}

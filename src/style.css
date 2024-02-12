@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: white;
+}
+
+.icon1 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: 5%;
+  width: 10%;
+  height: 10%;
+  font-size: 600%;
+  border-radius: 50%;
+  color: red;
+}
+.icon2 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  padding: 5%;
+  width: 10%;
+  height: 10%;
+  font-size: 600%;
+  border-radius: 50%;
+  color: red;
+}
