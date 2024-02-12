@@ -1,0 +1,30 @@
+body {
+  background-color: #fff;
+  margin: 0;
+}
+
+.icon1 {
+  color: red;
+  border-radius: 50%;
+  width: 10%;
+  height: 10%;
+  padding: 5%;
+  font-size: 600%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.icon2 {
+  color: red;
+  border-radius: 50%;
+  width: 10%;
+  height: 10%;
+  padding: 5%;
+  font-size: 600%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
